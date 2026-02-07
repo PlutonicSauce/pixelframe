@@ -1,0 +1,12 @@
+[package]
+name = "pixelframe"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.24"
+crossterm = "0.27"
+
+[[bin]]
+name = "pixelframe"
+path = "src/main.rs"
