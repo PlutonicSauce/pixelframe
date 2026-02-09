@@ -4,10 +4,10 @@ A terminal-based pixel art animation player written in Rust. Load PNG images and
 
 ## Features
 
-- 🎨 **Load PNG images** and display them as pixel art in the terminal
-- ⚡ **Real-time rendering** with customizable frame delay
-- 🎯 **Brightness-based ASCII mapping** for dynamic visual representation
-- 🛠️ **Cross-platform** support (Windows, macOS, Linux)
+**Load PNG images** and display them as pixel art in the terminal
+**Real-time rendering** with customizable frame delay
+**Brightness-based ASCII mapping** for dynamic visual representation
+**Cross-platform** support (Windows, macOS, Linux)
 
 ## How It Works
 
